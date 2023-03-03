@@ -8,5 +8,5 @@ taxonomy:
         - TAG1
 custom_fields:
     subtitle: yes
-    short_introduction: yes
+    short_introduction: {{title}}
 ---
