@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72b67ef58af6f8d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Wordpress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Wordpress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Wordpress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Wordpress.md"
               }
             }
           }
@@ -146,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cfe75c012309d62",
+  "active": "3bad3f1f4f2253d2",
   "lastOpenFiles": [
+    "Templates",
+    "README.md",
+    "Templates/Wordpress.md",
     "ReadMe-2.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
     "NewCycle.Studio/Degoogling Stuff.md",
     "Personal/انقلاب در چه سطحی و از چه نوعی.md",
     "NewCycle.Studio",
