@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "ReadMe-2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,7 +148,9 @@
   },
   "active": "4cfe75c012309d62",
   "lastOpenFiles": [
+    "README.md",
     "ReadMe-2.md",
+    "NewCycle.Studio/Degoogling Stuff.md",
     "Personal/انقلاب در چه سطحی و از چه نوعی.md",
     "NewCycle.Studio",
     "Personal"
