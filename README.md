@@ -1,1 +1,4 @@
-# notes
+# Published  notes
+
+- Personal
+- NewCycle.Studio
