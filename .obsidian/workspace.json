@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/انقلاب در چه سطحی و از چه نوعی.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/انقلاب در چه سطحی و از چه نوعی.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/انقلاب در چه سطحی و از چه نوعی.md"
+              }
             }
           }
         ]
@@ -142,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bad3f1f4f2253d2",
+  "active": "e3d850fd50a9f2bd",
   "lastOpenFiles": [
-    "Personal/انقلاب در چه سطحی و از چه نوعی.md",
     "Personal/نوشته دوم برای امتحان.md",
+    "Personal/انقلاب در چه سطحی و از چه نوعی.md",
     "Tes.md",
     "Templates/Wordpress.md",
     "README.md",
