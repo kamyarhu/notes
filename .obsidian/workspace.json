@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2482bd6e186ef03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NewCycle.Studio/The leadership delusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NewCycle.Studio/Degoogling Stuff.md",
+                "file": "NewCycle.Studio/The leadership delusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NewCycle.Studio/Degoogling Stuff.md",
+                "file": "NewCycle.Studio/The leadership delusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NewCycle.Studio/Degoogling Stuff.md"
+                "file": "NewCycle.Studio/The leadership delusion.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4279ffeaeb66c1d",
+  "active": "e2482bd6e186ef03",
   "lastOpenFiles": [
+    "NewCycle.Studio/Degoogling Stuff.md",
+    "NewCycle.Studio/The leadership delusion.md",
     "sync-back.md",
     "Personal/انقلاب در چه سطحی و از چه نوعی و برای چه چیزی.md",
     "Templates/Wordpress.md",
     "README.md",
-    "NewCycle.Studio/Degoogling Stuff.md",
     "فارسی.md",
     "Personal/نوشته دوم برای امتحان.md",
     "Tes.md",
