@@ -4,4 +4,7 @@
 3- Measurable progress is essential
 4- Moral and spiritaul development can be ornamental
 5- Power is in numbers
-6- 
+6- Human consciousness has been / is evolving
+7- "Self-development" leads to maturity
+8- Less hierarchy is always an improvement
+9- Modern / humanistic value system is universal
