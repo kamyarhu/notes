@@ -7,4 +7,4 @@
 7- "Self-development" leads to maturity
 8- Less hierarchy is always an improvement
 9- Modern / western value system (rights, equality, democracy) is universally fit for all
-10- The opposite of order is chaos and the soltion 
+10- The opposite of order is chaos and the soltion lies somewhere in between them
