@@ -31,4 +31,4 @@ Islands of trust, away from the genral patterns. Ownership.
 
 NGOs. Universities. The rich.
 
-One solution: self-organizing networks based on trust and meaning, with 
+One solution: self-organizing networks based on trust and meaning. The owner of the data and the organizing pattern is not a tech company or person, but a collective formed based on trust and meaning.
