@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28dc7f9983bdb2d8",
+        "id": "aa0c7ee0ba948001",
         "type": "tabs",
         "children": [
           {
-            "id": "027c09241d634231",
+            "id": "f4279ffeaeb66c1d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "027c09241d634231",
+  "active": "f4279ffeaeb66c1d",
   "lastOpenFiles": [
     "sync-back.md",
     "Personal/انقلاب در چه سطحی و از چه نوعی و برای چه چیزی.md",
