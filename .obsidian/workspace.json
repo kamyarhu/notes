@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Democracy, polarization and certainty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5916f443ce97797f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Inner Development Cultures.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5916f443ce97797f",
+  "active": "4f77f589e4a3e358",
   "lastOpenFiles": [
     "Personal/Democracy, polarization and certainty.md",
     "Inner Development Cultures.md",
