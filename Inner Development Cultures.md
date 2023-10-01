@@ -2,5 +2,15 @@ This writing aims to explore some of the edges the "Inner Development Goals" wor
 
 ## Cultures that have Inner Development integrated
 
-Based on Sophia PErrenis
+
+Based on Sophia Perrenis, ancient cultures that have a way with wisdom. Sufi culture.
+
+### Sufism
+#### World View / Cosmology
+
+#### Values instead of goals
+
+#### Whole human / to be developed but already residing as a blueprint
+
+##### Remembering / Unlearning
 
