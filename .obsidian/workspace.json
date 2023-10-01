@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5916f443ce97797f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inner Development Cultures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Democracy, polarization and certainty.md",
+                "file": "Inner Development Cultures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Democracy, polarization and certainty.md",
+                "file": "Inner Development Cultures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Democracy, polarization and certainty.md"
+                "file": "Inner Development Cultures.md"
               }
             }
           }
@@ -154,9 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f77f589e4a3e358",
+  "active": "5916f443ce97797f",
   "lastOpenFiles": [
     "Personal/Democracy, polarization and certainty.md",
+    "Inner Development Cultures.md",
     "NewCycle.Studio/Degoogling Stuff.md",
     "NewCycle.Studio/The leadership delusion.md",
     "sync-back.md",
