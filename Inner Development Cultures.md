@@ -14,6 +14,7 @@ Based on Sophia Perrenis, ancient cultures that have a way with wisdom. Sufi cul
 
 #### Development Model: Remembering / Unlearning
 
+##### Relationship with the invisible
 ##### Question of how can we?
 ##### Asking who?
 
