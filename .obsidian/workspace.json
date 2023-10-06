@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner Development Cultures.md",
+                "file": "Personal/هنر گفتگوی سازنده و راهبری جمعی.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner Development Cultures.md",
+                "file": "Personal/هنر گفتگوی سازنده و راهبری جمعی.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inner Development Cultures.md",
+                "file": "Personal/هنر گفتگوی سازنده و راهبری جمعی.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inner Development Cultures.md"
+                "file": "Personal/هنر گفتگوی سازنده و راهبری جمعی.md"
               }
             }
           }
@@ -154,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bad3f1f4f2253d2",
+  "active": "4f77f589e4a3e358",
   "lastOpenFiles": [
+    "Personal/انقلاب در چه سطحی و از چه نوعی و برای چه چیزی.md",
     "Personal/هنر گفتگوی سازنده و راهبری جمعی.md",
     "Inner Development Cultures.md",
     "Personal/Democracy, polarization and certainty.md",
     "NewCycle.Studio/Degoogling Stuff.md",
     "NewCycle.Studio/The leadership delusion.md",
     "sync-back.md",
-    "Personal/انقلاب در چه سطحی و از چه نوعی و برای چه چیزی.md",
     "Templates/Wordpress.md",
     "README.md",
     "فارسی.md",
