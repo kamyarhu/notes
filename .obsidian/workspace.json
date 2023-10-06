@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e697aa3d9479e42f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "هنر گفتگوی سازنده.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner Development Cultures.md",
+                "file": "هنر گفتگوی سازنده.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inner Development Cultures.md",
+                "file": "هنر گفتگوی سازنده.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inner Development Cultures.md"
+                "file": "هنر گفتگوی سازنده.md"
               }
             }
           }
@@ -154,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f77f589e4a3e358",
+  "active": "e697aa3d9479e42f",
   "lastOpenFiles": [
-    "Personal/Democracy, polarization and certainty.md",
+    "هنر گفتگوی سازنده.md",
     "Inner Development Cultures.md",
+    "Personal/Democracy, polarization and certainty.md",
     "NewCycle.Studio/Degoogling Stuff.md",
     "NewCycle.Studio/The leadership delusion.md",
     "sync-back.md",
