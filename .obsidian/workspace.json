@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "be1ccbb37cd5f527",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f77f589e4a3e358",
+  "active": "be1ccbb37cd5f527",
   "lastOpenFiles": [
     "Templates/Wordpress.md",
     "Personal/هنر گفتگوی سازنده و راهبری جمعی.md",
